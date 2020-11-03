@@ -6,8 +6,8 @@ Code Check
 .. image:: https://img.shields.io/pypi/v/code_check.svg
         :target: https://pypi.python.org/pypi/code_check
 
-.. image:: https://img.shields.io/travis/taceywong/code_check.svg
-        :target: https://travis-ci.com/taceywong/code_check
+.. image:: https://img.shields.io/travis/taceywong/checkcode.svg
+        :target: https://travis-ci.com/taceywong/checkcode
 
 .. image:: https://readthedocs.org/projects/code-check/badge/?version=latest
         :target: https://code-check.readthedocs.io/en/latest/?badge=latest
