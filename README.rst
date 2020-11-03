@@ -14,8 +14,8 @@ Code Check
         :alt: Documentation Status
 
 
-.. image:: https://pyup.io/repos/github/taceywong/checkcode/shield.svg
-     :target: https://pyup.io/repos/github/taceywong/checkcode/
+.. image:: https://pyup.io/repos/github/TaceyWong/checkcode/shield.svg
+     :target: https://pyup.io/repos/github/TaceyWong/checkcode/
      :alt: Updates
 
 
